@@ -75,11 +75,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentRepo</id>
-      <url>http://inmyzb0031.in.dst.ibm.com:8081/repository/maven-snapshots/</url>
+      <url>http://inmyzb0031.in.dst.ibm.com:8081/repository/sample_snap/</url>
     </snapshotRepository>
         <repository>
           <id>nexusdeploymentRepo</id>
-      <url>http://inmyzb0031.in.dst.ibm.com:8081/repository/maven-releases/</url>
+      <url>http://inmyzb0031.in.dst.ibm.com:8081/repository/sample-rel/</url>
     </repository>
 
   </distributionManagement>
