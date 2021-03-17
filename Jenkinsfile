@@ -16,7 +16,8 @@ pipeline {
                          artifactId: 'JavaSamples',
                          classifier: '', 
                          file: 'target', 
-                         type: 'war']
+                         type: 'jar'
+                     ]
                          ],
                           credentialsId: 'nexus',
                           groupId: 'com.java.samples', 
